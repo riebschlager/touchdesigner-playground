@@ -28,7 +28,7 @@ Spheres in a particle system blended together to look a bit like a fire and smok
 
 ## [fishy](./fishy)
 
-Instancing circles along a circle and scaling the instances down as they go. The effect is like looking at a fish from above.
+Instancing circles along a circle and scaling the instances down as they go. The effect is like looking at a fish from above. This sketch includes a water surface effect.
 
 ## [flame-fish](./flame-fish)
 
