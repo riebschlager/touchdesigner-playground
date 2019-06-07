@@ -1,6 +1,6 @@
 # touchdesigner-playground
 
-This repo represents my process of learning TouchDesigner. Some of these sketches contain useful bits or interesting ideas. Many of them are pretty bad. None of them are optimized. Some are kind of embarrassing. But hopefully you can find something interesting or useful!
+This repo represents my process of learning TouchDesigner. Some of these sketches contain useful bits or interesting ideas. Many of them are pretty bad. None of them are optimized. Some are kind of embarrassing. But hopefully you can find something interesting or useful! Each folder contains a TOE file and a thumbnail image that shows sample output.
 
 ## [ball-grid](./ball-grid)
 
