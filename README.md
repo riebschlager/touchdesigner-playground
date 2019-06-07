@@ -2,42 +2,42 @@
 
 A collection of TouchDesigner sketches.
 
-## [ball-grid](./tree/master/ball-grid)
+## [ball-grid](./ball-grid)
 
-## [black-hole](./tree/master/black-hole)
+## [black-hole](./black-hole)
 
-## [cloud-walker](./tree/master/cloud-walker)
+## [cloud-walker](./cloud-walker)
 
-## [cube-of-cubes](./tree/master/cube-of-cubes)
+## [cube-of-cubes](./cube-of-cubes)
 
-## [cube-party](./tree/master/cube-party)
+## [cube-party](./cube-party)
 
-## [fire-ball](./tree/master/fire-ball)
+## [fire-ball](./fire-ball)
 
-## [fishy](./tree/master/fishy)
+## [fishy](./fishy)
 
-## [flame-fish](./tree/master/flame-fish)
+## [flame-fish](./flame-fish)
 
-## [geometry-ring](./tree/master/geometry-ring)
+## [geometry-ring](./geometry-ring)
 
-## [gradient-circles](./tree/master/gradient-circles)
+## [gradient-circles](./gradient-circles)
 
-## [json-from-api](./tree/master/json-from-api)
+## [json-from-api](./json-from-api)
 
-## [kaleidoscope](./tree/master/kaleidoscope)
+## [kaleidoscope](./kaleidoscope)
 
-## [neon-splatter](./tree/master/neon-splatter)
+## [neon-splatter](./neon-splatter)
 
-## [nested-noise-balls](./tree/master/nested-noise-balls)
+## [nested-noise-balls](./nested-noise-balls)
 
-## [particle-blob](./tree/master/particle-blob)
+## [particle-blob](./particle-blob)
 
-## [pour-painting](./tree/master/pour-painting)
+## [pour-painting](./pour-painting)
 
-## [sea-waves](./tree/master/sea-waves)
+## [sea-waves](./sea-waves)
 
-## [spiky-ouroboros](./tree/master/spiky-ouroboros)
+## [spiky-ouroboros](./spiky-ouroboros)
 
-## [threshold-to-geo](./tree/master/threshold-to-geo)
+## [threshold-to-geo](./threshold-to-geo)
 
-## [timer-switch](./tree/master/timer-switch)
+## [timer-switch](./timer-switch)
