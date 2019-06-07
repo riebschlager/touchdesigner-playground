@@ -1,68 +1,43 @@
 # touchdesigner-playground
+
 A collection of TouchDesigner sketches.
 
-## [Ball Grid](./tree/master/ball-grid)
+## [ball-grid](./tree/master/ball-grid)
 
-Using the Line SOP and springs to create a grid of geometry that acts a bit like fabric.
+## [black-hole](./tree/master/black-hole)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/ball-grid/thumbnail.jpg?raw=true">
+## [cloud-walker](./tree/master/cloud-walker)
 
+## [cube-of-cubes](./tree/master/cube-of-cubes)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/black-hole/thumbnail.jpg?raw=true">
+## [cube-party](./tree/master/cube-party)
 
+## [fire-ball](./tree/master/fire-ball)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/cloud-walker/thumbnail.jpg?raw=true">
+## [fishy](./tree/master/fishy)
 
+## [flame-fish](./tree/master/flame-fish)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/cube-of-cubes/thumbnail.jpg?raw=true">
+## [geometry-ring](./tree/master/geometry-ring)
 
+## [gradient-circles](./tree/master/gradient-circles)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/cube-party/thumbnail.jpg?raw=true">
+## [json-from-api](./tree/master/json-from-api)
 
+## [kaleidoscope](./tree/master/kaleidoscope)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/fire-ball/thumbnail.jpg?raw=true">
+## [neon-splatter](./tree/master/neon-splatter)
 
+## [nested-noise-balls](./tree/master/nested-noise-balls)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/fishy/thumbnail.jpg?raw=true">
+## [particle-blob](./tree/master/particle-blob)
 
+## [pour-painting](./tree/master/pour-painting)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/flame-fish/thumbnail.jpg?raw=true">
+## [sea-waves](./tree/master/sea-waves)
 
+## [spiky-ouroboros](./tree/master/spiky-ouroboros)
 
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/geometry-ring/thumbnail.jpg?raw=true">
+## [threshold-to-geo](./tree/master/threshold-to-geo)
 
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/gradient-circles/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/json-from-api/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/kaleidoscope/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/neon-splatter/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/nested-noise-balls/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/particle-blob/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/pour-painting/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/sea-waves/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/spiky-ouroboros/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/threshold-to-geo/thumbnail.jpg?raw=true">
-
-
-<img style="max-width:300px;" src="http://github.com/riebschlager/touchdesigner-playground/blob/master/timer-switch/thumbnail.jpg?raw=true">
-
-
-
+## [timer-switch](./tree/master/timer-switch)
