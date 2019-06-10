@@ -81,3 +81,7 @@ A simple example of using a thresholded image to drive instanced geometry.
 ## [timer-switch](./timer-switch)
 
 A really simple example of driving a switch with time.
+
+## [trapper-keeper](./trapper-keeper)
+
+Cool Trapper Keeper, dude. Banded noise-based color chaos.
