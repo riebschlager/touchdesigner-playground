@@ -22,6 +22,10 @@ Yep. It's a cube made up of smaller cubes. Use some noise to drive the scale and
 
 Arranging boxes in a sphere orientation. Using noise to drive the color and scale of the boxes.
 
+## [face-mixing](./face-mixing)
+
+Using noise to create mattes to layer several images collage style.
+
 ## [fire-ball](./fire-ball)
 
 Spheres in a particle system blended together to look a bit like a fire and smoke explosion.
