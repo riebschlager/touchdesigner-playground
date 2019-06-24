@@ -62,6 +62,10 @@ Loading and playing an image sequence to create a neon splatter.
 
 Using noise to make instanced geometry appear to melt and re-grow.
 
+## [papercut](./papercut)
+
+Learning to use the Replicator by slicing noise into several Matte TOPs.
+
 ## [particle-blob](./particle-blob)
 
 A particle system animated around a circle to look like a smoke trail.
