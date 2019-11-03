@@ -97,3 +97,7 @@ A really simple example of driving a switch with time.
 ## [trapper-keeper](./trapper-keeper)
 
 Cool Trapper Keeper, dude. Banded noise-based color chaos.
+
+## [vortex](./vortex)
+
+Punching noise-affected circles through rectangle layers to create a vortex effect.
