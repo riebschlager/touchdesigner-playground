@@ -74,6 +74,10 @@ Learning to use the Replicator by slicing noise into several Matte TOPs.
 
 A particle system animated around a circle to look like a smoke trail.
 
+## [placeholder-video-maker](./placeholder-video-maker)
+
+Just makes handy placeholder videos.
+
 ## [pour-painting](./pour-painting)
 
 Using noise and cache-selecting to imitate the look of an acrylic pour painting.
