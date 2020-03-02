@@ -14,6 +14,10 @@ The Circle SOP, Noise SOP and a feedback loop to create an old school Doctor Who
 
 Using noise to drive the height map of a phong material. The effect can look like clouds or landscape.
 
+## [color-blob](./color-blob)
+
+I dunno, man. Just some pretty colors in a flowery blob-like configuration.
+
 ## [cube-noise](./cube-noise)
 
 Visualizing 3D noise with colorful cubes.
