@@ -10,7 +10,7 @@ Using the Line SOP and Spring SOP to create a grid of instanced geometry that be
 
 The Circle SOP, Noise SOP and a feedback loop to create an old school Doctor Who intro type of look.
 
-## [brush-ribbont](./brush-ribbont)
+## [brush-ribbon](./brush-ribbon)
 
 Instancing a texture to make it look like a 3D paintbrush stroke.
 
