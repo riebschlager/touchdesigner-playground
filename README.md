@@ -117,3 +117,7 @@ Cool Trapper Keeper, dude. Banded noise-based color chaos.
 ## [vortex](./vortex)
 
 Punching noise-affected circles through rectangle layers to create a vortex effect.
+
+## [wood-blocks](./wood-blocks)
+
+Camera-driven rotation of grid-instanced box SOPs.
