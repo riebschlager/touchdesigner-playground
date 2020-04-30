@@ -34,6 +34,10 @@ Yep. It's a cube made up of smaller cubes. Use some noise to drive the scale and
 
 Arranging boxes in a sphere orientation. Using noise to drive the color and scale of the boxes.
 
+## [eyeballs](./eyeballs)
+
+Eyeballs! PBR texture fun.
+
 ## [face-mixing](./face-mixing)
 
 Using noise to create mattes to layer several images collage style.
